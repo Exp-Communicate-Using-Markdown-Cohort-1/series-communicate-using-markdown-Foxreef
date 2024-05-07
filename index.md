@@ -10,3 +10,7 @@ int main() {
     std::cout << "Never gonna give you up";
 }
 ```
+
+- [X] Finish this list
+- [ ] Finish this markdown course
+- [ ] Play Hollow Knight
